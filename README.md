@@ -11,6 +11,6 @@
 
 ### Get Api Keys from OpenAI and put in .env file
 ### Get Api Keys from AssemblyAI and put in .env file
-### Run the main.py file
+### Run the main.py file and talk to the assistant
    
   
